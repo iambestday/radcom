@@ -15,7 +15,7 @@ function App() {
       setArrayValues(newArrayValues);
       setError("")
     } else {
-      setError("ابعاد  باید فرد و بزرگتر از 3 باشد");
+      setError("ابعاد آرایه های این جدول باید فرد و بزرگتر از 3 باشد");
     }
   };
 
